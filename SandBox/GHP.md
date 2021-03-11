@@ -1,8 +1,8 @@
 ---
-layout: "layout"
 permalink: /GitHubPages/
+layout: "layout"
 ---
-[HOME](../) ---
+[HOME](../../) ---
 [LOG CODE INFO](https://osp4diss.vlsm.org/ETC/logCodes.txt) ---
 [REPORT](../REPORT/) ---
 [STATUS](../STATUS/) 
@@ -186,6 +186,7 @@ permalink: /GitHubPages/
 * [zahrahrp](https://github.com/zahrahrp/) --- [os211](https://github.com/zahrahrp/os211/) --- [https://zahrahrp.github.io/os211/](https://zahrahrp.github.io/os211/) --- [LOG](https://zahrahrp.github.io/os211/TXT/mylog.txt)
 * [zaki-indra](https://github.com/zaki-indra/) --- [os211](https://github.com/zaki-indra/os211/) --- [https://zaki-indra.github.io/os211/](https://zaki-indra.github.io/os211/) --- [LOG](https://zaki-indra.github.io/os211/TXT/mylog.txt)
 * [Zsaschz](https://github.com/Zsaschz/) --- [os211](https://github.com/Zsaschz/os211/) --- [https://Zsaschz.github.io/os211/](https://Zsaschz.github.io/os211/) --- [LOG](https://Zsaschz.github.io/os211/TXT/mylog.txt)
+* [zuhrah9](https://github.com/zuhrah9/) --- [os211] --- [GitHub Page]
 * [zulfankasilas](https://github.com/zulfankasilas/) --- [os211](https://github.com/zulfankasilas/os211/) --- [https://zulfankasilas.github.io/os211/](https://zulfankasilas.github.io/os211/) --- [LOG](https://zulfankasilas.github.io/os211/TXT/mylog.txt)
 <hr>
-Sun  7 Mar 06:50:15 WIB 2021
+Thu 11 Mar 10:02:02 WIB 2021
