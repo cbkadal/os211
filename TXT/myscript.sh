@@ -2,8 +2,26 @@
 # Cicak bin Kadal
 # Tue 13 Oct 2020 10:37:14 AM WIB
 
-FILES="my*.txt my*.sh"
+REC1="operatingsystems@vlsm.org"
+REC2="cbk@dummy"
+FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
+
+[ -d $HOME/RESULT ] || { echo "No $HOME/RESULT directory" ; exit; }
+pushd $HOME/RESULT
+for II in W?? ; do
+    TARFILE=my$II.tar.bz2
+    TARFASC=$TARFILE.asc
+    rm -f $TARFILE $TARFASC
+    echo "tar cfj $TARFILE $II/"
+    tar cfj $TARFILE $II/
+    echo "gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE"
+    gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE
+done
+popd
+
+echo "mv -f $HOME/RESULT/myW*.tar.bz2.asc ."
+mv -f $HOME/RESULT/myW*.tar.bz2.asc .
 
 echo "rm -f $SHA $SHA.asc"
 rm -f $SHA $SHA.asc
