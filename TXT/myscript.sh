@@ -5,7 +5,7 @@
 # This free document is distributed in the hope that it will be 
 # useful, but WITHOUT ANY WARRANTY; without even the implied 
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-# REV01 Fri 12 Mar 13:14:43 WIB 2021
+# REV01 Fri 12 Mar 13:34:33 WIB 2021
 # START Tue 13 Oct 10:37:14 WIB 2020
 
 REC1="operatingsystems@vlsm.org"
@@ -16,6 +16,7 @@ SHA="SHA256SUM"
 [ -d $HOME/RESULT ] || { echo "No $HOME/RESULT directory" ; exit; }
 pushd $HOME/RESULT
 for II in W?? ; do
+    [ -d $II ] || continue
     TARFILE=my$II.tar.bz2
     TARFASC=$TARFILE.asc
     rm -f $TARFILE $TARFASC
