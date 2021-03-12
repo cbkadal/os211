@@ -5,8 +5,9 @@
 # This free document is distributed in the hope that it will be 
 # useful, but WITHOUT ANY WARRANTY; without even the implied 
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-# REV01 Fri 12 Mar 13:34:33 WIB 2021
-# START Tue 13 Oct 10:37:14 WIB 2020
+# REV02 Fri 12 Mar 13:40:58 WIB 2021
+# REV01 Tue 13 Oct 10:37:14 WIB 2020
+# START Mon 28 Sep 21:05:04 WIB 2020
 
 REC1="operatingsystems@vlsm.org"
 REC2="cbk@dummy"
@@ -47,6 +48,4 @@ gpg --verify $SHA.asc $SHA
 
 exit 0
 
-# Mon Sep 28 21:05:04 WIB 2020
-# Tue 29 Sep 2020 11:02:39 AM WIB
 
