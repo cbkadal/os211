@@ -1,6 +1,6 @@
 ---
-permalink: /REPORT/01/
 layout: "layout"
+permalink: /REPORT/01/
 ---
 [HOME](../../) ---
 [LOG CODE INFO](https://osp4diss.vlsm.org/ETC/logCodes.txt) ---
@@ -8,16 +8,16 @@ layout: "layout"
 [STATUS](../STATUS/)
 
 # W01: os211 report === ===
-### ==== Sat 13 Mar 09:18:37 WIB 2021 ====
+### ==== Sat 13 Mar 09:41:51 WIB 2021 ====
 <hr>
 ```
 GitHubAccount           LOG SCELE QUIZ EXTRA 
 ============================================ 
 abdurrohmanjafar        495     3    2     6
 AdamSyauqi              460     3    7     6
-adamyrayeuk             575     2    5     6
+adamyrayeuk             575     3    5     6
 advistasyam               0     3    5     6
-Ageng-Anugrah           725     2    8     6
+Ageng-Anugrah           725     3    8     6
 ahmadhaydar             955     3    0     6
 aladster               3040     3    4     6
 AldiNFitrah             745     3    6     6
@@ -35,8 +35,8 @@ angelindepthios         310     3    5     6
 anisfarhan              765     3    5     6
 annisadevin             918     3    7     6
 ansqee                  330     2    7     6
-antoniusanggito         615     2    5     6
-ardi-nusantara          747     2    1     6
+antoniusanggito         615     3    5     6
+ardi-nusantara          747     3    1     6
 arroganthooman          305     3    0     6
 Arsyandatj              410     2    0     6
 aryaputr213             770     2    4     6
@@ -45,14 +45,14 @@ asfiowilma              610     3    5     6
 astriddiany               0     3    7     6
 athiyafatihah             0     3    6     6
 azkafitria              395     3    0     6
-azricot                1060     2    7     6
+azricot                1060     3    7     6
 basyirasabita           470     3    5     6
 bimabr                  690     3    7     6
 bintangdom             1545     3    3     6
 blopblipblap            790     3    6     6
 bltszr                  189     2    6     6
 BudiArb                 445     3    8     6
-calmeryan               825     2    0     6
+calmeryan               825     3    0     6
 cobrayyxx                 0     3    5     6
 Corfaitch               410     3    5     6
 cornelita               965     3    4     6
@@ -67,22 +67,22 @@ Etyaresa                660     3    4     6
 Exqrch                 1002     3    4     6
 fadhilrasendriya        812     3    5     6
 fadlia68                535     3    5     6
-faishol01               457     2    2     6
+faishol01               457     3    2     6
 faustaadp               420     3    8     6
 fauziridwan1709         665     3    6     6
 fayaadbsa               610     3    0     6
-fikriadidharma          720     2    1     6
+fikriadidharma          720     3    1     6
 fredypasaud             810     3    5     6
 freezetabs              355     2    0     6
-FrhNzh                  620     2    8     6
-frsardhf                350     2    4     6
+FrhNzh                  620     3    8     6
+frsardhf                350     3    4     6
 frz1110                 585     3    5     6
 fwibisono87               0     3    5     6
 FXDROS                  615     3    5     7
 gabriel-enrique         780     3    5     6
 galacticor              625     3    5     6
-ganiirsyadi             885     2    5     6
-garyteofanus            495     2    5     6
+ganiirsyadi             885     3    5     6
+garyteofanus            495     3    5     6
 GerradND                580     3    5     6
 ghifariaulia            190     2    0     6
 GhifariZR               230     3    0     6
@@ -91,7 +91,7 @@ hadihalimm              610     3    4     6
 haikalSusanto           300     3    5     6
 handi91                 480     3    0     6
 hanifahaputri           465     3    2     6
-Hanifahreza             575     2    0     6
+Hanifahreza             575     3    0     6
 hanifanggawi            450     3    5     6
 hanifaudah              900     3    7     6
 Hans-sss                640     3    4     6
@@ -109,7 +109,7 @@ JFernando11             430     3    5     6
 johanesimarmata         780     1    4     6
 jojonicho              1711     3    5     8
 jsaonn                  710     3    5     6
-kalEl2001               530     2    6     6
+kalEl2001               530     3    6     6
 kaysakay                650     3    4     6
 KentaBisma              600     3    5     6
 KevinAfiza              455     2    0     6
@@ -128,7 +128,7 @@ mfadhlan98                0     0    0     6
 mfelixharyono           730     3    7     6
 mirsalsa                685     3    8     6
 mkadit                  676     3    7     6
-monta1212               380     2    4     6
+monta1212               380     3    4     6
 muadzaskar                0     3    3     6
 muhammadhafizmm         270     2    0     6
 MuhammadRaviSH          565     3    6     6
@@ -136,7 +136,7 @@ muzhaffaris             465     3    0     6
 mzahranagung            480     3    4     6
 nabiladitaputri         410     3    5     6
 nadhirarafik            390     3    5     6
-nadifahsn              1690     2    7     6
+nadifahsn              1690     3    7     6
 nadilatusifa12          870     3    4     6
 NaradhipaBhary           90     3    5     6
 natsyz                  760     3    5     6
@@ -147,13 +147,13 @@ nisadn                  955     3    5     6
 ni-tami                 822     3    7     6
 nofamex                   0     3    4     6
 novihdn                1175     3    6     6
-Originica               445     2    6     6
+Originica               445     3    6     6
 Pinatnat                980     3    0     6
 prajnapras19              0     3    4     6
 PWigunarta                0     3    3     6
 RadhiansyaZ             592     3    7     6
 radityarestan           614     3    8     6
-rafidirg                430     2    5     6
+rafidirg                430     3    5     6
 rafigabhira             925     3    6     6
 RafiMoreno              363     3    0     6
 rafimuhammad01          285     3    5     6
@@ -175,16 +175,16 @@ soniarahma27            950     3    4     6
 stevensim226            850     3    7     6
 sunnysani               100     3    0     6
 tarameccaluna             0     3    1     6
-Theophilus-Lukas        690     2    5     6
+Theophilus-Lukas        690     3    5     6
 Trigonometr1            904     3    6     6
 tsanaativa              685     3    5     6
-VadimBhirawa            695     2    6     6
+VadimBhirawa            695     3    6     6
 valentinohp             730     2    5     6
 vandhya                 561     3    5     6
 Veniche                 765     3    0     6
 X1non                   735     3    7     6
 YasyfaWiwaha            544     2    5     6
-yosuahutagalung         334     2    4     6
+yosuahutagalung         334     3    4     6
 zahrahrp                520     3    5     6
 zaki-indra              210     3    5     6
 Zsaschz                 595     3    4     6

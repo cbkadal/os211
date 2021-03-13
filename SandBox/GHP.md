@@ -1,6 +1,6 @@
 ---
-permalink: /GitHubPages/
 layout: "layout"
+permalink: /GitHubPages/
 ---
 [HOME](../) ---
 [LOG CODE INFO](https://osp4diss.vlsm.org/ETC/logCodes.txt) ---
@@ -189,4 +189,4 @@ layout: "layout"
 * [zuhrah9](https://github.com/zuhrah9/) --- [os211] --- [GitHub Page]
 * [zulfankasilas](https://github.com/zulfankasilas/) --- [os211](https://github.com/zulfankasilas/os211/) --- [https://zulfankasilas.github.io/os211/](https://zulfankasilas.github.io/os211/) --- [LOG](https://zulfankasilas.github.io/os211/TXT/mylog.txt)
 <hr>
-Sat 13 Mar 09:18:46 WIB 2021
+Sat 13 Mar 09:41:59 WIB 2021
