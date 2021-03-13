@@ -38,7 +38,7 @@ layout: "layout"
 * [arroganthooman](https://github.com/arroganthooman/) --- [os211](https://github.com/arroganthooman/os211/) --- [https://arroganthooman.github.io/os211/](https://arroganthooman.github.io/os211/) --- [LOG](https://arroganthooman.github.io/os211/TXT/mylog.txt)
 * [Arsyandatj](https://github.com/Arsyandatj/) --- [os211](https://github.com/Arsyandatj/os211/) --- [https://Arsyandatj.github.io/os211/](https://Arsyandatj.github.io/os211/) --- [LOG](https://Arsyandatj.github.io/os211/TXT/mylog.txt)
 * [aryaputr213](https://github.com/aryaputr213/) --- [os211](https://github.com/aryaputr213/os211/) --- [https://aryaputr213.github.io/os211/](https://aryaputr213.github.io/os211/) --- [LOG](https://aryaputr213.github.io/os211/TXT/mylog.txt)
-* [Aryuda-Oktawyandra](https://github.com/Aryuda-Oktawyandra/) --- [os211](https://github.com/Aryuda-Oktawyandra/os211/) --- [https://Aryuda-Oktawyandra.github.io/os211/](https://Aryuda-Oktawyandra.github.io/os211/)
+* [Aryuda-Oktawyandra](https://github.com/Aryuda-Oktawyandra/) --- [os211](https://github.com/Aryuda-Oktawyandra/os211/) --- [https://Aryuda-Oktawyandra.github.io/os211/](https://Aryuda-Oktawyandra.github.io/os211/) --- [LOG](https://Aryuda-Oktawyandra.github.io/os211/TXT/mylog.txt)
 * [asfiowilma](https://github.com/asfiowilma/) --- [os211](https://github.com/asfiowilma/os211/) --- [https://asfiowilma.github.io/os211/](https://asfiowilma.github.io/os211/) --- [LOG](https://asfiowilma.github.io/os211/TXT/mylog.txt)
 * [astriddiany](https://github.com/astriddiany/) --- [os211](https://github.com/astriddiany/os211/) --- [https://astriddiany.github.io/os211/](https://astriddiany.github.io/os211/) --- [LOG](https://astriddiany.github.io/os211/TXT/mylog.txt)
 * [athiyafatihah](https://github.com/athiyafatihah/) --- [os211](https://github.com/athiyafatihah/os211/) --- [https://athiyafatihah.github.io/os211/](https://athiyafatihah.github.io/os211/) --- [LOG](https://athiyafatihah.github.io/os211/TXT/mylog.txt)
@@ -189,4 +189,4 @@ layout: "layout"
 * [zuhrah9](https://github.com/zuhrah9/) --- [os211] --- [GitHub Page]
 * [zulfankasilas](https://github.com/zulfankasilas/) --- [os211](https://github.com/zulfankasilas/os211/) --- [https://zulfankasilas.github.io/os211/](https://zulfankasilas.github.io/os211/) --- [LOG](https://zulfankasilas.github.io/os211/TXT/mylog.txt)
 <hr>
-Thu 11 Mar 10:02:02 WIB 2021
+Sat 13 Mar 09:18:46 WIB 2021
