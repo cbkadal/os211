@@ -5,6 +5,8 @@
 # This free document is distributed in the hope that it will be 
 # useful, but WITHOUT ANY WARRANTY; without even the implied 
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+# REV03 Sun 14 Mar 18:21:27 WIB 2021
 # REV02 Fri 12 Mar 13:40:58 WIB 2021
 # REV01 Tue 13 Oct 10:37:14 WIB 2020
 # START Mon 28 Sep 21:05:04 WIB 2020
@@ -14,7 +16,7 @@ REC2="cbk@dummy"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
 
-[ -d $HOME/RESULT ] || { echo "No $HOME/RESULT directory" ; exit; }
+[ -d $HOME/RESULT ] || mkdir -p $HOME/RESULT
 pushd $HOME/RESULT
 for II in W?? ; do
     [ -d $II ] || continue
@@ -28,8 +30,11 @@ for II in W?? ; do
 done
 popd
 
-echo "mv -f $HOME/RESULT/myW*.tar.bz2.asc ."
-mv -f $HOME/RESULT/myW*.tar.bz2.asc .
+rm -f $HOME/RESULT/fakeDODOL
+for II in $HOME/RESULT/myW*.tar.bz2.asc $HOME/RESULT/fakeDODOL ; do
+   echo "Check and move $II..."
+   [ -f $II ] && mv -f $II .
+done
 
 echo "rm -f $SHA $SHA.asc"
 rm -f $SHA $SHA.asc
