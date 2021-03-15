@@ -1,5 +1,4 @@
 ---
-layout: "layout"
 permalink: /GitHubPages/
 ---
 [HOME](../) ---
@@ -189,4 +188,4 @@ permalink: /GitHubPages/
 * [zuhrah9](https://github.com/zuhrah9/) --- [os211] --- [GitHub Page]
 * [zulfankasilas](https://github.com/zulfankasilas/) --- [os211](https://github.com/zulfankasilas/os211/) --- [https://zulfankasilas.github.io/os211/](https://zulfankasilas.github.io/os211/) --- [LOG](https://zulfankasilas.github.io/os211/TXT/mylog.txt)
 <hr>
-Sat 13 Mar 09:41:59 WIB 2021
+Mon 15 Mar 18:03:40 WIB 2021

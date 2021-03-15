@@ -1,14 +1,13 @@
 ---
-layout: "layout"
-permalink: /REPORT/01/
+permalink: /REPORT/
 ---
-[HOME](../../) ---
+[HOME](../) ---
 [LOG CODE INFO](https://osp4diss.vlsm.org/ETC/logCodes.txt) ---
 [PAGES](../GitHubPages/) ---
 [STATUS](../STATUS/)
 
 # W01: os211 report === ===
-### ==== Mon 15 Mar 17:49:41 WIB 2021 ====
+### ==== Mon 15 Mar 18:03:38 WIB 2021 ====
 <hr>
 ```
 GitHubAccount           LOG SCELE QUIZ EXTRA TOP10 
