@@ -1,9 +1,10 @@
 ---
 permalink: /GitHubPages/
+layout: "layout"
 ---
 [HOME](../) ---
 [LOG CODE INFO](https://osp4diss.vlsm.org/ETC/logCodes.txt) ---
-[REPORT](../REPORT/) ---
+[REPORT](../REPORT/02/) ---
 [STATUS](../STATUS/) 
 
 # GitHub Pages (os211)
